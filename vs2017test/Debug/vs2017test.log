@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\shahar\desktop\3rd class\3rd class\vs2017test\vs2017test\main.cpp(54): warning C4101: 'j': unreferenced local variable
+c:\users\shahar\desktop\3rd class\3rd class\vs2017test\vs2017test\main.cpp(54): warning C4101: 'i': unreferenced local variable
+c:\users\shahar\desktop\3rd class\3rd class\vs2017test\vs2017test\main.cpp(226): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\shahar\desktop\3rd class\3rd class\vs2017test\vs2017test\main.cpp(231): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\shahar\desktop\3rd class\3rd class\vs2017test\vs2017test\main.cpp(254): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  vs2017test.vcxproj -> C:\Users\Shahar\Desktop\3rd Class\3rd Class\vs2017test\Debug\vs2017test.exe
